@@ -74,8 +74,6 @@ Then open either notebook and run all cells top to bottom.
 └── README.md
 ```
 
-> **Note:** Datasets are not included in this repository due to size. Download them from the Kaggle links above and place them in the folders shown.
-
 ---
 
 ## 📊 Key Findings
